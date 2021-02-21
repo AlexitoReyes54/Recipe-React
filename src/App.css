@@ -4,6 +4,8 @@
 
 background-image: linear-gradient(to top, #a18cd1 0%, #fbc2eb 100%);
 
+background: rgb(13,5,152);
+background: linear-gradient(8deg, rgba(13,5,152,1) 0%, rgba(9,9,121,1) 16%, rgba(0,212,255,1) 100%);
 }
 
 
@@ -36,7 +38,7 @@ background-image: linear-gradient(to top, #a18cd1 0%, #fbc2eb 100%);
 
 .search-button {
 
-  background: lightcoral;
+  background: black;
 
   border: none;
 
